@@ -23,18 +23,17 @@ a:hover {
 /*
  * Base structure
  */
-html{
-  background-image: url('images/Kids.jpg');
-}
+
 html,
 body {
   height: 100%;
 
- /* background-color: #333;*/
+ background-color: #333;
 
 
 }
 body {
+  background-image: url('images/Kids.jpg');
   color: #fff;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
