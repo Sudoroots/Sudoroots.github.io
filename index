@@ -69,27 +69,52 @@
 
   <body>
 
-    <!-- Begin page content -->
-    <div class="container">
-      <header>
-        <h1 class="text-uppercase text-center">Randy G. Sidberry</h1>
-      </header>
-        <div class="jumbotron">
-          <div class="container"
-  <h1>HI THERE</h1>
-  <p>I'm developing myself into a developer. Visit this site to watch me grow in the progress...</p>
-  <img src="images/all.jpg" class="img-responsive center-block " alt="Responsive image img-rounded " /><br />
-  <p><a class="btn btn-primary btn-lg" href="https://twitter.com/sudo_roots" role="button">Follow me on twitter</a></p>
-</div>
-</div>
+    <div class="site-wrapper">
 
+      <div class="site-wrapper-inner">
 
+        <div class="cover-container">
 
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand">Cover</h3>
+              <nav>
+                <ul class="nav masthead-nav">
+                  <li class="active"><a href="#">Home</a></li>
+                  <li><a href="#">Features</a></li>
+                  <li><a href="#">Contact</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
 
-<!-- Latest compiled and minified JavaScript -->
-<script src="scripts/jquery-1.12.0.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+          <div class="inner cover">
+            <h1 class="cover-heading">Cover your page.</h1>
+            <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
+            <p class="lead">
+              <a href="#" class="btn btn-lg btn-default">Learn more</a>
+            </p>
+          </div>
 
+          <div class="mastfoot">
+            <div class="inner">
+              <p>Cover template for <a href="http://getbootstrap.com">Bootstrap</a>, by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="scripts/ie10-viewport-bug-workaround.js"></script>
   </body>
-<script src="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.min.js"></script>
 </html>
