@@ -33,7 +33,7 @@ body {
 
 }
 body {
-  background-image: url('images/Kids.jpg');
+ 
   color: #fff;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
@@ -55,6 +55,7 @@ body {
 .cover-container {
   margin-right: auto;
   margin-left: auto;
+   background-image: url('images/Kids.jpg');
 }
 
 /* Padding for spacing */
